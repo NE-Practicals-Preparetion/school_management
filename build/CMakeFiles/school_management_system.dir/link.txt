@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/school_management_system.dir/src/main.cpp.o CMakeFiles/school_management_system.dir/src/database.cpp.o CMakeFiles/school_management_system.dir/models/Student.cpp.o -o school_management_system  -lmysqlcppconn 

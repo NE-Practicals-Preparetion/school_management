@@ -1,0 +1,8 @@
+INSTALL library to handle database connection
+sudo apt-get install libmysqlcppconn-dev
+
+1. Create student
+2. Get students
+3. Update student
+4. Delete Student
+

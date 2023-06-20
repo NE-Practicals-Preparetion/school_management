@@ -1,0 +1,3 @@
+/home/pmuhire/Documents/cpp/build/CMakeFiles/school_management_system.dir
+/home/pmuhire/Documents/cpp/build/CMakeFiles/edit_cache.dir
+/home/pmuhire/Documents/cpp/build/CMakeFiles/rebuild_cache.dir
